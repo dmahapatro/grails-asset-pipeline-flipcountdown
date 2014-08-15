@@ -1,6 +1,10 @@
 /*
 *= require main
 *= require mobile
-*= require_tree ../flipcountdown
+*= require_tree ../**
+*= require_tree ../bootstrap
+*= require_tree ../lib/**
+*= require_tree ../css
+*= require_tree .
 *= require_self
 */
